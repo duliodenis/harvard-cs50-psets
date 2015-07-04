@@ -1,9 +1,8 @@
-![](https://raw.githubusercontent.com/duliodenis/harvard-cs50-psets/master/art/Harvard.png)
-
-### Harvard cs50: Intro to Computer Science Course 
+Harvard CS50: Intro to Computer Science Course 
+==============
 ### Problem Sets
 
-![](https://raw.githubusercontent.com/duliodenis/harvard-cs50-psets/master/art/This-is-cs50.png)
+![](https://raw.githubusercontent.com/duliodenis/harvard-cs50-psets/master/art/Harvard.png)
 
 This is my CS50 Problem Sets. Harvard University. Fall 2015.
 
@@ -13,6 +12,9 @@ No  | Problem Set
 ------------- | -------------
 0. | Sketch Programs
 1. | [C Programs](https://github.com/duliodenis/harvard-cs50-psets/tree/master/pset1)
+
+### Licensing
+These Harvard CS50 problem sets are licensed under [the MIT License](https://github.com/duliodenis/harvard-cs50-psets/blob/master/LICENSE).
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
